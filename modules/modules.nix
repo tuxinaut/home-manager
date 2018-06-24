@@ -18,6 +18,7 @@ let
     ./manual.nix
     ./misc/fontconfig.nix
     ./misc/gtk.nix
+    ./misc/mail.nix
     ./misc/news.nix
     ./misc/nixpkgs.nix
     ./misc/pam.nix
@@ -40,6 +41,7 @@ let
     ./programs/info.nix
     ./programs/lesspipe.nix
     ./programs/man.nix
+    ./programs/mbsync.nix
     ./programs/mercurial.nix
     ./programs/neovim.nix
     ./programs/newsboat.nix
